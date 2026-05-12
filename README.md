@@ -2,7 +2,8 @@
 
 Money Finance is a personal finance web app for tracking confirmed spending,
 income, subscriptions, receipt imports, and month-level financial visibility.
-
+# Why did i build this
+i built this project for me personally, to track my spending and subscriptions and knows where do i spend each month
 The project is built around one core idea: not every financial record means the
 same thing. A transaction is real money movement, a subscription is a recurring
 commitment, and a receipt import is raw input that must be reviewed before it
